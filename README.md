@@ -103,11 +103,6 @@ This shader uses multiple temporal samples which can be GPU-intensive. If you ex
 - Inspired by authentic VHS and CRT artifacts
 - Thanks to all contributors!
 
-## Gallery
-
-Share your creations! Open a PR to add your work here.
-
 ---
-
 
 Questions? Open an issue or start a discussion!
